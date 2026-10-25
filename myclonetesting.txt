@@ -1,1 +1,2 @@
-Juts for clone testing
+Just for clone testing.
+Adding a commnet, able to learn cloning a repo in project folder!!
